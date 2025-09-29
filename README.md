@@ -1,7 +1,10 @@
 ### 📚 Education
 🏫 숭실대학교 AI융합학부(`2024.06` ~  `2026.03`)
+<br>
 🏫 숭실대학교 정보사회학과 (`2023.03` ~ `2026.03`)
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=42&logoColor=white" style="border-radius:60px"> 42 Seoul Member (`2023.08~2025.05`)
+<br>
+<img src="https://img.shields.io/badge/-black?style=flat&logo=42&logoColor=white" alt="42" height="20"/> 42Seoul (`2023.08~2025.05`)
+<br>
 
 <br>
 
