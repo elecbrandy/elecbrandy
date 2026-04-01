@@ -1,21 +1,6 @@
 ### 📚 Education
-
-<img src="https://custom-icon-badges.demolab.com/badge/Seoul-10기-black?logo=42_white&logoColor=white"
-    alt="42Seoul" 
-    height="20" 
-    style="width: auto !important;">
-<br>
-<img src="https://custom-icon-badges.demolab.com/badge/숭실대학교-정보사회학과|AI융합학부-black?logo=ssu_white&logoColor=white" 
-    alt="ssu" 
-    height="20" 
-    style="width: auto !important;">
-<br>
-<img src="https://custom-icon-badges.demolab.com/badge/skala-SK_AX_AI_Leader_Academy-black?logo=sk_white&logoColor=white" 
-    alt="ssu" 
-    height="20" 
-    style="width: auto !important;"></a>
-
-<br>
+- 42서울 10기
+- SK AI Leader Academy 3기
 
 ### 🛠 Tech Stack
 <p>
@@ -28,7 +13,7 @@
 <br>
 
 ### 📂 Projects
-- **[FT_IRC](https://github.com/elecbrandy/ft_irc)**
+- **[FT_IRC](https://github.com/elecbrandy/ft_irc_refactor)**
   - _IRC 프로토콜_ 기반 C++ 채팅 서버
 - **[freshpink](https://github.com/elecbrandy/freshpink)**
   - 정적 웹 빌더인 `hugo` 를 활용한 github blog 테마
