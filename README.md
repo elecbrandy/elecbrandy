@@ -23,6 +23,8 @@
 
 #### 📂 Projects
 
+- **[ivery](https://github.com/SKALA-TEAM5)**
+  - SHE 특화 AI Agentic 플랫폼 (산업안전관리비 집행 증빙 특화)
 - **[ft_irc](https://github.com/elecbrandy/ft_irc_refactor)**
   - _IRC 프로토콜_ 기반 C++ 채팅 서버
 - **[freshpink](https://github.com/elecbrandy/freshpink)**
@@ -31,7 +33,8 @@
 <br>
 
 ### 🏆 Awards
-- 2023 과학기술통신부 데이터청년캠퍼스 가짜뉴스 분석 우수상
+- 2023 과학기술통신부 데이터청년캠퍼스 우수상 (경제/금융 분야)
+- 2023 한국정책협회 빅데이터 분석 분야 우수상 (경제/금융 분야)
 
 <br>
 
