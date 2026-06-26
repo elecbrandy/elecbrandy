@@ -1,9 +1,15 @@
-#### 📚 Education
+### 📚 Education
+
+<hr>
+
 - AI융합학부
 - 42서울 10기
 - SK AI Leader Academy 3기
 
-#### 🛠 Tech Stack
+### 🛠 Tech Stack
+
+<hr>
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -20,7 +26,9 @@
 
 <br>
 
-#### 📂 Projects
+### 📂 Projects
+
+<hr>
 
 - **[ivery](https://github.com/SKALA-TEAM5)**
   - SHE 특화 AI Agentic 플랫폼 (산업안전관리비 집행 증빙 특화)
@@ -32,6 +40,9 @@
 <br>
 
 ### 🏆 Awards
+
+<hr>
+
 - 2023 과학기술통신부 데이터청년캠퍼스 우수상 (경제/금융 분야)
 - 2023 한국정책협회 빅데이터 분석 분야 우수상 (경제/금융 분야)
 
