@@ -7,7 +7,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/LangChain-1F425F?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-232F3E?style=for-the-badge&logo=langgraph&logoColor=white" />
   <br>
