@@ -4,7 +4,9 @@
 
 - AI융합학부
 - 42서울 10기
-- SK AI Leader Academy 3기
+- SK AI Leader Academy 3기 (SKALA)
+
+<br>
 
 ### 🛠 Tech Stack
 
@@ -30,8 +32,8 @@
 
 <hr>
 
-- **[ivery](https://github.com/SKALA-TEAM5)**
-  - SHE 특화 AI Agentic 플랫폼 (산업안전관리비 집행 증빙 특화)
+- **[i-very](https://github.com/SKALA-TEAM5)**
+  - AI 산업 현장 Compliance 솔루션 (산업안전관리비 집행 증빙 특화)
 - **[ft_irc](https://github.com/elecbrandy/ft_irc_refactor)**
   - _IRC 프로토콜_ 기반 C++ 채팅 서버
 - **[freshpink](https://github.com/elecbrandy/freshpink)**
