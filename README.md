@@ -1,11 +1,13 @@
-## 📚 Education
-- AI융합학부
-- 42서울 10기
-- SK AI Leader Academy 3기 (SKALA)
+## 💡 About me
+- **AI융합전공**으로, AI와 CS 기반을 깊게 공부했습니다.
+- **42서울** 에서 `C/C++`기반 시스템 프로그래밍을 공부했습니다.
+- **SK AI Leader Academy** 에서 `AI Agentic 솔루션` 개발을 경험했습니다.
+- 원인과 구조에 대한 이해를 선행하여, 최적의 솔루션을 개발하는 것이 목표입니다.
 
 <br>
 
 ## 🛠 Tech Stack
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -24,12 +26,18 @@
 
 ## 📂 Projects
 
-- **[i-very](https://github.com/SKALA-TEAM5)**
-  - AI 산업 현장 Compliance 솔루션 (산업안전관리비 집행 증빙 특화)
-- **[ft_irc](https://github.com/elecbrandy/ft_irc_refactor)**
-  - _IRC 프로토콜_ 기반 C++ 채팅 서버
-- **[freshpink](https://github.com/elecbrandy/freshpink)**
-  - 정적 웹 빌더인 `hugo` 를 활용한 github blog 테마
+- **`AI`**
+  - **[i-very](https://github.com/SKALA-TEAM5)**: AI 산업 현장 Compliance 솔루션
+  - **[house-retnal-bot](https://github.com/SKALA-TEAM5)**: 주택임대차보호법 기반 LLM 챗봇
+  - **[tmp](https://github.com/SKALA-TEAM5)**: RAP-MLLM Retrieval 개선 연구
+- **`42Seoul`**
+  - **[ft_transcendence](https://github.com/elecbrandy/ft_transcendence)**: JavaScript 기반 SPA 웹 서비스
+  - **[ft_irc](https://github.com/elecbrandy/ft_irc_refactor)**: IRC 프로토콜 기반 C++ 채팅 서버
+  - **[philosopher](https://github.com/elecbrandy/philosopher)**: 뮤텍스 기반 프로세스 관리 시뮬레이션
+  - **[minishell](https://github.com/elecbrandy/minishell)**: Bash shell 구현
+  - **[push_swap](https://github.com/elecbrandy/push_swap)**: 스택 기반 정렬 알고리즘 구현
+- **`ETC`**
+  - **[freshpink](https://github.com/elecbrandy/freshpink)**: 정적 웹 빌더 `hugo` 테마
 
 <br>
 
